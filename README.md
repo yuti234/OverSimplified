@@ -3,7 +3,7 @@
 <html>
 
 <head>
-<title> What Makes you beautful by One direction </title>
+<title> Tommy's Media </title>
 </head>
 
 <body>
@@ -11,7 +11,7 @@
 <style>
 h1 {color:red;}
 </style>
-<h1> header 1 </h1>
+<h1>Pictures</h1>
 <p> paragraph 1 </p>
 <p> <b> paragraph 2 </b> </p>
 <h2> header 2 </h2>
