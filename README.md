@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title> Everday with Isa </title>
   </head>
   <body>
     <a href="#contact"><img src= "https://content.codecademy.com/courses/learn-html/elements-and-structure/profile.jpg"></a>
