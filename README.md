@@ -24,7 +24,18 @@
  <li><a href= "https://www.youtube.com/watch?v=26EivpCPHnQ&t=14s"> Three Kingdoms - OverSimplified</a></li>
  <li><a href= "https://www.youtube.com/watch?v=8qRZcXIODNU&t=591s"> The French Revolution - OverSimplified (Part 1) </a></li>
  <li><a href= "https://www.youtube.com/watch?v=EQmjXM4VK2U"> The French Revolution - OverSimplified (Part 2) </a></li>
-  <li><a href= "https://www.youtube.com/watch?v=Cln0J87vulU"> The War of the Bucket - Oversimplified</a></li>
+  <li><a href= "https://www.youtube.com/watch?v=Cln0J87vulU"> The War of the Bucket - OverSimplified</a></li>
+  <li><a href= "https://www.youtube.com/watch?v=tsxmyL7TUJg">The American Civil War - OverSimplified (Part 1)</a></li>
+  <li><a href= "https://www.youtube.com/watch?v=sV6uuMAnJUE&t=473s"> The American Civil War -OverSimplified (Part 2)</a></li>
+  <li><a href= "https://www.youtube.com/watch?v=ewLpXw6uN28&t=96s"> Henry VIII - OverSimplified</a></li>
+  <li><a href= "https://www.youtube.com/watch?v=Cqbleas1mmo&t=648s"> The Russian Revolution - OverSimplified (Part 1)</a></li>
+  <li><a href= "https://www.youtube.com/watch?v=b1reY72ktEc"> The Russian Revolution - OverSimplified (Part 2)</a></li>
+  <li><a href= "https://www.youtube.com/watch?v=AAGIi62-sAU&t=667s"> Prohibition - OverSimplified</a></li>
+  <li><a href= "https://www.youtube.com/watch?v=zqllxbPWKNI&t=2s"> The Napoleonic Wars - OverSimplified (Part 1)</a></li>
+  <li><a href= "https://www.youtube.com/watch?v=mY3SEMTROas&t=166s"> The Napoleonic Wars - OverSimplified (Part 2)</a></li>
+  <li><a href= "https://www.youtube.com/watch?v=QLq6GEiHqR8&t=748s">The Pig War - OverSimplified</a></li>
+  <li><a href= "https://www.youtube.com/watch?v=yRmOWcWdQAo&t=17s"> The First Punic War - OverSimplified (Part 1)</a></li>
+  <li><a href= "https://www.youtube.com/watch?v=hRSGxw2AQnk&t=81s"> The First Punic War - OverSimplified (Part 2)</a></li>
  </ul>
 <img src="https://preview.redd.it/front-facing-oversimplified-v0-m97gro5gxjfb1.png?auto=webp&s=1f4c11c1dc52d0801ada2ad3f5cd6befdbbbb9c2">
 <h4>Image of OverSimplified in CDAWGVA's Charity Auction for the Immune Deficiency Foundation</h4>
