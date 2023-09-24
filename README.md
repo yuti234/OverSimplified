@@ -36,10 +36,9 @@
   <li><a href= "https://www.youtube.com/watch?v=QLq6GEiHqR8&t=748s">The Pig War - OverSimplified</a></li>
   <li><a href= "https://www.youtube.com/watch?v=yRmOWcWdQAo&t=17s"> The First Punic War - OverSimplified (Part 1)</a></li>
   <li><a href= "https://www.youtube.com/watch?v=hRSGxw2AQnk&t=81s"> The First Punic War - OverSimplified (Part 2)</a></li>
- </ul>
+ 
 <img src="https://preview.redd.it/front-facing-oversimplified-v0-m97gro5gxjfb1.png?auto=webp&s=1f4c11c1dc52d0801ada2ad3f5cd6befdbbbb9c2">
 <h4>Image of OverSimplified in CDAWGVA's Charity Auction for the Immune Deficiency Foundation</h4>
 <p></p>
 <a href= "https://www.youtube.com/@OverSimplified">OverSimplified's Youtube Channel</a>
-</body>
-</html>
+
